@@ -8,13 +8,12 @@ Step 3. use react-material or polymer UI
 
 
 ----
-Rynnung :
 
 Step1 : download the project from git
 Step2: run "npm start" from command window.
 
 I havent implemented Test, design for this project yet. 
 
-Started at 21.06.2020 12:00 , Finished at 21.06.2020 16:30 PM , Duration : 4:30 hours.
+Duration : 4:30 hours.
 
 # ReactSample
